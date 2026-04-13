@@ -25,19 +25,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61573263082742",
+    "61570738642014",
     "l"
   ],
   "developer": [
-    "61573263082742",
+    "61570738642014",
     ""
   ],
   "vipuser": [
-    "61573263082742",
+    "61570738642014",
     ""
   ],
   "reactBy": {
-    "delete": ["🥲", "❌", "😠", "😡", "😾"],
+    "delete": ["🥲", "💗", "😠", "😡", "😾"],
     "kick": ["👟", "🦵"]
   }, 
   "whiteListMode": {
@@ -45,7 +45,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Shizuka 🐱💕",
+  "nickNameBot": "Shizuka🐱💕",
   "prefix": "!",
   "database": {
     "type": "sqlite",
